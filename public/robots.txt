@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://probit.com.py/sitemap.xml

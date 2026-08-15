@@ -1,0 +1,6 @@
+{
+  "name": "PROBIT - Rediseño Corporativo B2B",
+  "description": "Propuesta interactiva de identidad visual, arquitectura de información y copy estratégico para el reposicionamiento de PROBIT Paraguay en el sector B2B tecnológico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
